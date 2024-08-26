@@ -1,4 +1,4 @@
-# Desafio de Programação Full-Stack: React + Node.js + TypeScript
+# Desafio de Programação Back-End: Node.js + Express.js + TypeScript
 
 Este repositório contém um setup inicial para um projeto full-stack utilizando React, Node.js e TypeScript. O objetivo deste desafio é desenvolver um CRUD completo para máquinas industriais.
 
