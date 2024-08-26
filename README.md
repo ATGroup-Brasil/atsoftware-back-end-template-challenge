@@ -38,7 +38,6 @@ Após o desenvolvimento das aplicações back-end e front-end, ambas devem ser c
 
 O que deve ser criado nessa etapa
 
-- Arquivo DockerFile da aplicação front-end
 - Arquivo DockerFile da aplicação back-end
 
 ## Requisitos
