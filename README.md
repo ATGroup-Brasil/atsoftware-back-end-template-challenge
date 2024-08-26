@@ -3,7 +3,7 @@
 Este repositório contém um setup inicial para um projeto full-stack utilizando React, Node.js e TypeScript. O objetivo deste desafio é desenvolver um CRUD completo para máquinas industriais.
 
 ## Estrutura do Projeto
-A estrutura do projeto está localizado na pasta `/back-end` e foi configurado utilizando TypeScript. Para mais detalhes sobre como iniciar um projeto com TypeScript, consulte o [tutorial da DigitalOcean](https://www.digitalocean.com/community/tutorials/typescript-new-project).
+A estrutura do projeto foi criada utilizando TypeScript. Para mais detalhes sobre como iniciar um projeto com TypeScript, consulte o [tutorial da DigitalOcean](https://www.digitalocean.com/community/tutorials/typescript-new-project).
 
 ## Desafio
 
