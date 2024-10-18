@@ -51,6 +51,10 @@ O que deve ser criado nessa etapa
 - Adicione quaisquer bibliotecas ou ferramentas adicionais que considere úteis para a melhoria do projeto.
 - Além dos requisitos obrigatórios, você está livre para escolher os design patterns e bibliotecas que irá utilizar. Faça essa escolha com base nas tecnologias que você já tem experiência.
 
+## Entrega
+
+O projeto final deve ser publicado em um repositório público no GitHub. O link para o repositório deve ser enviado ao responsável pelo processo seletivo.
+
 ## Referências
 - [PostgreSQL](https://www.postgresql.org/)
 - [MySQL](https://www.mysql.com/)
